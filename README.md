@@ -1,7 +1,5 @@
 # Deep learning project 2 (hw2)
 
-project 2: s2vt
-
 ## Table of Contents
 - [Projects](#projects)
 - [Background](#background)
@@ -10,7 +8,7 @@ project 2: s2vt
 - [Contributing](#contributing)
 
 ## Projects
-- [Project_2](hw2_1/)
+- [Project 2: S2VT](hw2_1/)
 
 ## Background
 
